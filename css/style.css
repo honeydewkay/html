@@ -1,0 +1,9 @@
+button{
+  width:120px;
+  height: 40px;
+}
+
+button:hover{
+  background-color: aqua;
+  cursor: pointer;
+}
